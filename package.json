@@ -11,10 +11,10 @@
         "test" : "test"
     },
     "dependencies" : {
-        "append-only" : "~0.1.0",
-        "optimist" : "~0.3.5",
-        "ecstatic" : "~0.3.0",
-        "request" : "~2.12.0"
+        "append-only" : "~0.2.3",
+        "optimist" : "~0.6.1",
+        "ecstatic" : "~2.1.0",
+        "request" : "~2.78.0"
     },
     "scripts" : {
         "start" : "node server.js"
